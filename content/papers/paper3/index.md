@@ -1,52 +1,60 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Political Polarization and Fractionalisation from Rational Values-Based Inference in an Agent-Based Graph Network" 
+date: 2025-07-27
+tags: ["Agent Based Model", "Graph theory", "Political polarization", "Moral values", "Inference"]
+author: ["Nicolas Navarre", "Julie Pedersen", "Adam Moore"]
+description: "This is an agent based model that investigates the role of moral value inference in forming groups that could lead to polootocal polarization" 
+summary: "This is an agent based model that investigates the role of moral value inference in forming groups that could lead to polootocal polarization" 
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image: "mini-poster.png"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
-
+    URL: "https://escholarship.org/uc/item/6gv6j71v"
+    Text: "Proceedings of the Annual Meeting of the Cognitive Science Society, 47"
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
-
++ [Paper](Navare_Pedersen_Moore_2025.pdf)
++ [Code + Supplementary](https://github.com/navarrenicolas/MoralABM)
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+The rise in political polarization disrupts political consensus and causes individual harm.
+We build on a theoretical framework of political polarization that emerges from uncertain political identity inference and signaling mediated by moral values. The current computational model extends this framework with rational inference tools and graph theory to better capture the complex dynamics of value-based inference and group formation. We find that minimally constrained signaling and promiscuous inference and updating of moral values leads to general network homogeneity. This contrasts with previous models using the same overarching theoretical framework and highlights the influence of model implementation, which should be further explored to triangulate the necessary causes of polarization. We discuss future extensions to the model to explore what facilitates political polarization as found in previous studies and the real world.
+
+
+---
+
+##### One slide poster
+
+
+![](mini-poster.png)
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Navarre, N., Pedersen, J. M. E., & Moore, A. (2025). Political Polarization and Fractionalisation from Rational Values-Based Inference in an Agent-Based Graph Network. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47).
 
 ```latex
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+@inproceedings{navarre2025political,
+  title={Political Polarization and Fractionalisation from Rational Values-Based Inference in an Agent-Based Graph Network},
+  author={Navarre, Nicolas and Pedersen, Julie Maria Ejby and Moore, Adam},
+  booktitle={Proceedings of the Annual Meeting of the Cognitive Science Society},
+  volume={47},
+  year={2025}
+}
 ```
 
 ---
 
 ##### Related material
 
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
++ [poster](CogSci2025_poster.pdf)
+
+
+

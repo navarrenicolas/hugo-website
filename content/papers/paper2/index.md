@@ -1,17 +1,15 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Functional rule inference from causal selection explanations" 
+date: 2024-07-27
+tags: ["Causal selection", "Counterfactuals", "Explanation", "Inference"]
+author: ["Nicolas Navarre", "Can Konuk", "Neil Bramley", "Salvador Mascarenhas"]
+summary: "This paper investigates how causal selection can be treated as informative explanations to people unaware of the causal structure" 
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "conditions.png"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://escholarship.org/uc/item/77s6z2h0"
+    Text: "Proceedings of the Annual Meeting of the Cognitive Science Society, 46"
 
 ---
 
@@ -19,43 +17,43 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
++ [Paper](Causal_Selection_Explanations_for_Causal_Inference_Cogsci.pdf)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Building on counterfactual theories of causal-selection, according to which humans intuitively evaluate the causal responsibility of events, we developed an experimental paradigm to examine the effect of causal-selection explanations on abductive causal inference. In our experiment, participants attempted to infer the rule responsible for winning outcomes of random draws from urns with varying sampling probabilities.
+Participants who were provided with causal-selection judgments as explanations for the outcomes made significantly closer inferences to the rule than those relying on observations alone, or on other explanations of causal relevance.
+We mirror these empirical results with a computational model of inference from explanation leveraging the theories of causal selection.
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Explanation conditions
 
-![](paper2.png)
+![](conditions.png)
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Navarre, N., Konuk, C., Bramley, N. R., & Mascarenhas, S. (2024). Functional rule inference from causal selection explanations. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46).
 
 ```latex
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+
+@inproceedings{navarre2024functional,
+  title={Functional rule inference from causal selection explanations},
+  author={Navarre, Nicolas and Konuk, Can and Bramley, Neil R and Mascarenhas, Salvador},
+  booktitle={Proceedings of the Annual Meeting of the Cognitive Science Society},
+  volume={46},
+  year={2024}
+}
+
 ```
 
 ---
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
++ [Presentation slides](cogsci2024-inference.pdf)
++ [Poster](comco2023-inference.pdf)
