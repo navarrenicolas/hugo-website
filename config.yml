@@ -71,7 +71,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: NNavarre_CV_2025.pdf
         - name: Email
           url: mailto:nnavarre@ed.ac.uk
         - name: Google Scholar
