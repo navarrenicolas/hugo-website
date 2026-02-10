@@ -1,27 +1,17 @@
 ---
 title: "Location"
-date: 2024-05-08
+date: 2026-02-06
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Contact information"
 
 ---
 
----
-
-#### Mailing address
-
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
 
 ---
 
 #### Office address
 
-Room 133  
-Institute of Romance Philology  
-University of Regensburg
+Appleton Tower - University of Edinburgh
 
 ---
 

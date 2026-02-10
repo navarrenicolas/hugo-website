@@ -5,7 +5,7 @@ tags: ["Causal selection", "Counterfactuals", "Explanation", "Inference"]
 author: ["Nicolas Navarre", "Can Konuk", "Neil Bramley", "Salvador Mascarenhas"]
 summary: "This paper investigates how causal selection can be treated as informative explanations to people unaware of the causal structure" 
 cover:
-    image: "conditions.png"
+    image: "images/conditions.png"
     relative: true
 editPost:
     URL: "https://escholarship.org/uc/item/77s6z2h0"

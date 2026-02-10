@@ -6,7 +6,7 @@ author: ["Can Konuk","Nicolas Navarre","Salvador Mascarenhas"]
 description: "Desription" 
 summary: "Comparing causal model theory and confirmation theory in probabilistic reasoning" 
 cover:
-    image: "mesopotamia.png"
+    image: "images/mesopotamia.png"
     relative: true
 editPost:
     URL: "https://escholarship.org/uc/item/5g56p16z"

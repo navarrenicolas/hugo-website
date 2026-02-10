@@ -6,7 +6,7 @@ author: ["Iona Carslaw", "Sivan Milton", "Nicolas Navarre", "Ciyang Qing", "Wata
 description: "Dataset of embedded clauses sentences using syntactic parsers" 
 summary: "Dataset of embedded clauses sentences using syntactic parsers"
 cover:
-    image: "annotation.png"
+    image: "images/annotation.png"
     relative: true
 editPost:
     URL: "https://doi.org/10.7275/scil.3151"

@@ -6,7 +6,7 @@ author: ["Nicolas Navarre", "Julie Pedersen", "Adam Moore"]
 description: "This is an agent based model that investigates the role of moral value inference in forming groups that could lead to polootocal polarization" 
 summary: "This is an agent based model that investigates the role of moral value inference in forming groups that could lead to polootocal polarization" 
 cover:
-    image: "mini-poster.png"
+    image: "images/mini-poster.png"
     relative: true
 editPost:
     URL: "https://escholarship.org/uc/item/6gv6j71v"
