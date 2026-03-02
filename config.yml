@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Nicolas Navarre
-          subtitle: "I am a PhD student at the University of Edinburgh in the Natural Language Processing CDT."
+          subtitle: "I am a PhD student at the University of Edinburgh in the UKRI Doctoral training in Natural Language Processing supervised by Neil Bramley and Dan Lassiter. My research focuses on the communication of causal information through the use of language. Specifically, how we are able to communicate our beliefs when we produce linguistic judgments. I use a combination of computational models and behavioural studies to make predictions about what judgments people make and what others can infer from those judgments. Previously, I completed my Masters at the Cogmaster in Paris under the supervision of Salvador Mascarenhas and Can Konuk."
           imageUrl: "profile.jpeg"
           imageWidth: 300
           imageHeight: 250
