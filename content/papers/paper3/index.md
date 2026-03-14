@@ -32,7 +32,7 @@ We build on a theoretical framework of political polarization that emerges from 
 ##### One slide poster
 
 
-![](mini-poster.png)
+![](/images/mini-poster.png)
 
 ---
 

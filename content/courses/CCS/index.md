@@ -29,7 +29,7 @@ Course main page: [https://groups.inf.ed.ac.uk/teaching/ccs/](https://groups.inf
 <embed src="/notebooks/ccs/solutions-tut2_NN.pdf" type="application/pdf" width="100%" height="800px">
 
 
-## Tutorial 4: bayesian model comparison
+## Tutorial 4: Bayesian model comparison
 
 <embed src="/notebooks/ccs/solutions-tut4_NN.pdf" type="application/pdf" width="100%" height="800px">
 
@@ -37,6 +37,6 @@ Course main page: [https://groups.inf.ed.ac.uk/teaching/ccs/](https://groups.inf
 
 <embed src="/notebooks/ccs/tutorial05_NN.pdf" type="application/pdf" width="100%" height="800px">
 
-## Tutorial 6: Reainforcement learning (multi-armed bandits)
+## Tutorial 6: Reinforcement learning (multi-armed bandits)
 
 <embed src="/notebooks/ccs/tutorial06_NN.pdf" type="application/pdf" width="100%" height="800px">

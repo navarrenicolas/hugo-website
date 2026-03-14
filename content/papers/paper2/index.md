@@ -31,9 +31,8 @@ We mirror these empirical results with a computational model of inference from e
 
 ##### Explanation conditions
 
-![](conditions.png)
+![](/images/conditions.png)
 
----
 
 ##### Citation
 

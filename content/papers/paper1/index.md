@@ -29,7 +29,7 @@ We compare two perspectives on base-rate neglect (Kahneman & Tversky, 1973) in p
 
 ##### Summary of results
 
-![](mesopotamia.png)
+![](/images/mesopotamia.png)
 
 ---
 
